@@ -10,9 +10,9 @@ def plusMinus(arr, n):
     zero_prop = arr.count(0) / n
 
     # format for output
-    print("%.5f" %positive_prop)
-    print("%.5f" %negative_prop)
-    print("%.5f" %zero_prop)
+    print("%.6f" %positive_prop)
+    print("%.6f" %negative_prop)
+    print("%.6f" %zero_prop)
         
 
 if __name__ == '__main__':
