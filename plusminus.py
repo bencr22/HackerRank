@@ -1,7 +1,5 @@
 #!/bin/python3
 
-import numpy as np
-
 
 def plusMinus(arr, n):
     # get the proportion of each element
